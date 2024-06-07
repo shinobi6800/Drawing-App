@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+color:#fff;
+}
+#canvasarea{
+    background-color:rgb(218, 81, 218);
+    border:5px solid #e92cc0;
+    background-image:linear-gradient(90deg,purple,rgb(204, 0, 255),violet);
+}
